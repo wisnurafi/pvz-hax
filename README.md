@@ -469,6 +469,3 @@ int __userpurge getPlantAttackType@<eax>(int plantAddr@<eax>, int a2)
 | Feature | Address |
 | ------- | ------- |
 | Find next zombie | `41F6B0` |
-
----
-
